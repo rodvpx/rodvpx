@@ -34,11 +34,11 @@ Sou um estudante focado no desenvolvimento backend, sempre em busca de aprender 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
 </p>
 
-## ⚙️ Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodvpx&show_icons=true&theme=radical)
-
 ## 💻 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodvpx&layout=compact&theme=radical)
+
+## ⚙️ Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodvpx&show_icons=true&theme=radical)
 
 ## 📝 Melhores Projetos
 - **[Sistema de Monitoria](https://github.com/rodvpx/SistemaMonitoriaB)**: Um sistema completo para gerenciamento de monitorias e usuários. Permite criar e gerenciar perfis de usuários, cadastrar monitorias e visualizar informações de horário, local e vagas disponíveis, facilitando o acompanhamento e a organização das atividades acadêmicas.
