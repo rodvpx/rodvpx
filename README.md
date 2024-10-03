@@ -31,8 +31,7 @@ Sou um estudante focado no desenvolvimento backend, sempre em busca de aprender 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
-</p>
+  </p>
 
 ## 💻 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodvpx&layout=compact&theme=radical)
