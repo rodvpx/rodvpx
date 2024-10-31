@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rodrigo Simão!
 
 🎓 **Estudante de Sistemas de Informação** (4º período)  
-🏫 **IFG - Campus Urutaí**  
+🏫 **IF Goiano - Campus Urutaí**  
 📍 **Ipameri - GO**
 
 Sou um estudante focado no desenvolvimento backend, sempre em busca de aprender novas tecnologias. Atualmente, estou me aprofundando nas linguagens **Java** e **Kotlin**, com o objetivo de construir uma carreira sólida na área de desenvolvimento de software.
