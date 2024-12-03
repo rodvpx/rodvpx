@@ -49,4 +49,4 @@ Sou um estudante focado no desenvolvimento backend, sempre em busca de aprender 
 - Desenvolvimento Mobile
 
 ## 📫 Entre em contato:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sim%C3%A3o-633883298/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-simao-dev)
