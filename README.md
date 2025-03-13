@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/rodvpx/rodvpx/output/snake.svg" alt="Snake animation" />
+
+###
 # 👋 Olá, eu sou Rodrigo Simão!
 
 🎓 **Estudante de Sistemas de Informação** (5º período)  
