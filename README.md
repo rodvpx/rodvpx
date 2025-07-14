@@ -3,7 +3,7 @@
 ###
 # 👋 Olá, eu sou Rodrigo Simão!
 
-🎓 **Estudante de Sistemas de Informação** (5º período)  
+🎓 **Estudante de Sistemas de Informação** (6º período)  
 🏫 **IF Goiano - Campus Urutaí**  
 📍 **Ipameri - GO**
 
