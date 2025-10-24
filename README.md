@@ -40,6 +40,9 @@ Sou um estudante focado no desenvolvimento **backend**, especialmente utilizando
 ## ⚙️ Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodvpx&show_icons=true&theme=radical)
 
+## 🤝 Projetos Colaborativos
+[🤝 Collaborative Projects](https://github.com/stars/rodvpx/lists/collaborative-projects)
+
 ## 📝 Melhores Projetos
 - **[Sistema de Monitoria](https://github.com/rodvpx/SistemaMonitoriaB)**: Sistema completo para gerenciamento de monitorias e usuários. Permite criar e gerenciar perfis de usuários, cadastrar monitorias e visualizar informações de horário, local e vagas disponíveis, facilitando o acompanhamento e a organização das atividades acadêmicas.
 
