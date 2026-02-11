@@ -19,6 +19,7 @@ Sou um estudante focado no desenvolvimento **backend**, especialmente utilizando
 ### Linguagens e Frameworks:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -35,18 +36,20 @@ Sou um estudante focado no desenvolvimento **backend**, especialmente utilizando
 </p>
 
 ## 💻 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodvpx&layout=compact&theme=radical)
+![Top Langs](https://github-readme-statsfork.vercel.app/api/top-langs/?username=rodvpx&layout=compact&theme=radical)
 
 ## ⚙️ Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodvpx&show_icons=true&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodvpx&theme=github_dark)
 
 ## 🤝 Projetos Colaborativos
 [🤝 Collaborative Projects](https://github.com/stars/rodvpx/lists/collaborative-projects)
 
-## 📝 Melhores Projetos
-- **[Sistema de Monitoria](https://github.com/rodvpx/SistemaMonitoriaB)**: Sistema completo para gerenciamento de monitorias e usuários. Permite criar e gerenciar perfis de usuários, cadastrar monitorias e visualizar informações de horário, local e vagas disponíveis, facilitando o acompanhamento e a organização das atividades acadêmicas.
+## 📝 Projetos em Destaque
+- **[Park Mobile](https://github.com/rodvpx/Park-Mobile_App-Android)**: App completo de estacionamento com autenticação Firebase, listagem de vagas/usuários/históricos, CRUD de vagas e seeder para popular Firestore com dados reais. Frontend mobile (Kotlin, XML, Android Studio) + integração backend Firestore. Entregue em dupla.
 
-- **[Gerenciamento de Produção Leiteira](https://github.com/rodvpx/GerenciamentoProducaoLeiteira)**: Plataforma para gestão de rebanhos e controle de produção leiteira. Oferece funcionalidades para cadastro de animais, registro diário de consumo e produção, além da geração de relatórios detalhados (diários, mensais e anuais), permitindo o acompanhamento de produção, custos e lucratividade.
+- **[ACES-API](https://github.com/rodvpx/ACEs_API)**: API RESTful para combate à dengue, com cadastro de focos, geração de relatórios e testes automatizados (JUnit). Documentei com Swagger e integrei com banco PostgreSQL. Entregue em equipe de 4 desenvolvedores.
+
+- **[Sistema de Monitoria](https://github.com/rodvpx/SistemaMonitoriaB)**: Sistema completo com autenticação, CRUD e controle de usuários e gestão acadêmica, aplicando padrões de projeto MVC e arquitetura organizada.
 
 ## 📚 Áreas de Interesse
 - Desenvolvimento **Backend**
