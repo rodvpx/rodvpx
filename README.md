@@ -3,9 +3,13 @@
 # 👋 Olá, eu sou Rodrigo Simão
 
 💻 **Desenvolvedor de Software - Java/Kotlin**
+
 🎓 **Sistemas de Informação — IF Goiano - Campus Urutaí - (7º período)**
+
 🚀 **Foco em APIs REST, Spring Boot e desenvolvimento Mobile Android**
+
 🎯 **Buscando oportunidade como Desenvolvedor Júnior**
+
 📍 **Goiás**
 
 ## 🧠 Stack Principal
