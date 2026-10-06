@@ -26,6 +26,10 @@ API REST para gerenciamento de pacientes, médicos e consultas. Arquitetura em c
 API para combate à dengue com cadastro de focos, geração de relatórios e testes automatizados.
 **Stack:** Java, Spring Boot, PostgreSQL, JUnit, Swagger.
 
+### 🐹 [API de Usuários (Golang)](https://github.com/rodvpx/api_users_go)
+API REST para gerenciamento de usuários desenvolvida em Go. Projeto criado para aplicar de forma prática os estudos atuais na linguagem e seu ecossistema.
+**Stack:** Golang, APIs REST.
+
 ### 🚗 [Route Pires](https://github.com/josevictoraraujorojas/RoutePiresFront)
 Sistema de rotas em tempo real (Projeto Universitário). Atuei no desenvolvimento do Backend integrando APIs REST e comunicação bidirecional.
 **Stack:** Java, Spring Boot, WebSocket, Firestore.
