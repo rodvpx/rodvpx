@@ -18,7 +18,7 @@
 
 ## 🚀 Projetos em destaque
 
-### 🔐 [Auth Service](https://github.com/rodvpx/authservice)
+### 🔐 [Auth Service](https://github.com/rodvpx/auth-service)
 API de cadastro e login com senhas em BCrypt e JWT, com autorização por perfil (USER e ADMIN) via Spring Security. Migrations versionadas com Flyway, ambiente reproduzível com Docker Compose e pipeline de build no GitHub Actions.
 **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Flyway, Docker.
 
